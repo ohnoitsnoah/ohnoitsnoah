@@ -1,3 +1,4 @@
+* Oh, no! It's Noah!
 + 👋 Hi, I’m @ohnoitsnoah
 + 👀 I’m interested in art and programming
 + 🌱 I’m currently learning JavaScript
