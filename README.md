@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on different projects of all sorts
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
-    
+   + noah@ohnoitsnoah.com
