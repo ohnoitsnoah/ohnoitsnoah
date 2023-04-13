@@ -1,8 +1,8 @@
 # Oh, no! It's Noah!
 - 👋 Hi, I’m @ohnoitsnoah
-- 👀 I’m interested in art and programming
+- 👀 I’m a multimedia artist
 - 🌱 I’m currently learning JavaScript and PHP
-- 💞️ I’m looking to collaborate on different projects of all sorts
+- 💞️ I’m looking to collaborate on any sort of creative project, as well as doing documentation for any project (mostly)
 - 🗒️ I use Doom Emacs as my text editor
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
