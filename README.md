@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ohnoitsnoah
 - 👀 I’m a multimedia artist
 - 🌱 I’m currently learning JavaScript and PHP
-- 💞️ I’m looking to collaborate on any sort of creative project, as well as doing documentation for any project (mostly)
+- 💞️ I’m looking to collaborate on any sort of creative project
 - 🗒️ I use Doom Emacs as my text editor
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
