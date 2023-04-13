@@ -1,7 +1,7 @@
 # Oh, no! It's Noah!
 - 👋 Hi, I’m @ohnoitsnoah
 - 👀 I’m a multimedia artist
-- 🌱 I’m currently learning JavaScript and PHP
+- 🌱 I’m currently learning JavaScript and C
 - 💞️ I’m looking to collaborate on any sort of creative project
 - 🗒️ I use Doom Emacs as my text editor
 - 📫 How to reach me:
