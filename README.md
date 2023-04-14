@@ -10,7 +10,6 @@
 ## My Toolbox:
 ![Vim](https://img.shields.io/badge/Vim-E34F8?style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
-![VS Code](https://img.shields.io/badge/Vs_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Org-Mode](https://img.shields.io/badge/Org--Mode-77aa99?style=for-the-badge&logo=org&logoColor=white)
 ![HTMl5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
