@@ -3,7 +3,7 @@
 - 👀 I’m a multimedia artist
 - 🌱 I’m currently learning Elisp, JavaScript, and C
 - 💞️ I’m looking to collaborate on any sort of creative project
-- 🗒️ I use Doom Emacs as my text editor
+- 📝️ I use Doom Emacs as my text editor
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
    + noah@ohnoitsnoah.com
