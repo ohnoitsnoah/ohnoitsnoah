@@ -8,7 +8,6 @@
    + https://ohnoitsnoah.com
    + noah@ohnoitsnoah.com
 ## My Toolbox:
-![Vim](https://img.shields.io/badge/Vim-E34F8?style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Org-Mode](https://img.shields.io/badge/Org--Mode-77aa99?style=for-the-badge&logo=org&logoColor=white)
