@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C, JavaScript, and Elisp
 - 💞️ I’m looking to collaborate on any sort of creative project
 - 📝️ I use Doom Emacs as my text editor
-- ⚙️ I'm currently working on making a game
+- ⚙️ I'm currently working on a game
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
    + noah@ohnoitsnoah.com
