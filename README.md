@@ -30,6 +30,7 @@
 ![Gimp](https://img.shields.io/badge/Gimp-5c5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-ff7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/libreoffice-18a303?style=for-the-badge&logo=libreoffice&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot%20Engine-478cbf?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=ableton%20live&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac_OS-F2F4F9?style=for-the-badge&logo=apple&logoColor=black)
 ![Debian](https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
