@@ -14,6 +14,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Nano](https://img.shields.io/badge/GNU%20nano-8518F6?style=for-the-badge)
 ![uEmacs/PK](https://img.shields.io/badge/uEmacs/PK-FAFAED?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
+![JED](https://img.shields.io/badge/JED-40649F?style=for-the-badge)
 ![Sublime](https://img.shields.io/badge/Sublime%20Text-ff9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Org-Mode](https://img.shields.io/badge/Org--Mode-77aa99?style=for-the-badge&logo=org&logoColor=white)
