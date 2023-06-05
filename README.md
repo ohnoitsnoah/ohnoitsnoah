@@ -17,6 +17,7 @@
 ![uEmacs/Pk](https://img.shields.io/badge/uEmacs/PK-FAFAED?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
 ![JED](https://img.shields.io/badge/JED-40649F?style=for-the-badge)
 ![Jove](https://img.shields.io/badge/Jove-ffa8fc?style=for-the-badge)
+![ee](https://img.shields.io/badge/ee-000000?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Org-Mode](https://img.shields.io/badge/Org--Mode-77aa99?style=for-the-badge&logo=org&logoColor=white)
 ![Elisp](https://img.shields.io/badge/Elisp-blueviolet?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
@@ -50,4 +51,5 @@
 ![Debian](https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch](https://img.shields.io/badge/arch-1793d1?style=for-the-badge&logo=arch%20linux&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%20ME-008080?style=for-the-badge&logo=Windows%2095&logoColor=white)
