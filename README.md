@@ -48,5 +48,6 @@
 ![Mac OS](https://img.shields.io/badge/mac_OS-F2F4F9?style=for-the-badge&logo=apple&logoColor=black)
 ![GNU/Linux](https://img.shields.io/badge/GNU/LINUX-fcc624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/arch-1793d1?style=for-the-badge&logo=arch%20linux&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%20ME-008080?style=for-the-badge&logo=Windows%2095&logoColor=white)
