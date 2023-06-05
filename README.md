@@ -41,6 +41,7 @@
 ![Stickies](https://img.shields.io/badge/Stickies-fcf2a1?style=for-the-badge)
 ![Tumblr](https://img.shields.io/badge/tumblr-36465d?style=for-the-badge&logo=tumblr&logoColor=white)
 ![Ink](https://img.shields.io/badge/ink-000000?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478cbf?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=ableton%20live&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac_OS-F2F4F9?style=for-the-badge&logo=apple&logoColor=black)
