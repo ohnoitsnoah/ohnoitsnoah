@@ -41,4 +41,5 @@
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=ableton%20live&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac_OS-F2F4F9?style=for-the-badge&logo=apple&logoColor=black)
 ![Debian](https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspbian-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Raspbian](https://img.shields.io/badge/Raspbian-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20ME-008080?style=for-the-badge&logo=Windows%2095&logoColor=white)
