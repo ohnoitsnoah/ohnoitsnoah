@@ -17,6 +17,7 @@
 ![uEmacs/Pk](https://img.shields.io/badge/uEmacs/PK-FAFAED?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
 ![JED](https://img.shields.io/badge/JED-40649F?style=for-the-badge)
 ![Jove](https://img.shields.io/badge/Jove-ffa8fc?style=for-the-badge)
+![Notepad](https://img.shields.io/badge/Notepad-6baaab?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Org-Mode](https://img.shields.io/badge/Org--Mode-77aa99?style=for-the-badge&logo=org&logoColor=white)
 ![Elisp](https://img.shields.io/badge/Elisp-blueviolet?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
