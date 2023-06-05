@@ -34,7 +34,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Cloud-da1f26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2b579a?style=for-the-badge&logo=Microsoft%20Word&logoColor=white)
-![htop](https://img.shields.io/badge/htop-000000?style=for-the-badge)
 ![Pastebin](https://img.shields.io/badge/Pastebin-02456c?style=for-the-badge&logo=Pastebin&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox%20Browser-ff7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/libreoffice-18a303?style=for-the-badge&logo=libreoffice&logoColor=white)
