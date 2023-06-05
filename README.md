@@ -8,6 +8,7 @@
    + https://ohnoitsnoah.com
    + noah@ohnoitsnoah.com
 ## My Toolbox:
+<p style="text-align: center;">
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
 ![Noahmacs](https://img.shields.io/badge/Noahmacs-ffd95c?style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-E34F8?style=for-the-badge&logo=neovim&logoColor=white)
@@ -46,3 +47,4 @@
 ![Debian](https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%20ME-008080?style=for-the-badge&logo=Windows%2095&logoColor=white)
+</p>
