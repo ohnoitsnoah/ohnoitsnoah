@@ -37,6 +37,7 @@
 ![Firefox](https://img.shields.io/badge/Firefox%20Browser-ff7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/libreoffice-18a303?style=for-the-badge&logo=libreoffice&logoColor=white)
 ![Google Keep](https://img.shields.io/badge/Google%20Keep-ffbb00?style=for-the-badge&logo=Google%20Keep&logoColor=black)
+![Tumblr](https://img.shields.io/badge/tumblr-36465d?style=for-the-badge&logo=tumblr&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478cbf?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=ableton%20live&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac_OS-F2F4F9?style=for-the-badge&logo=apple&logoColor=black)
