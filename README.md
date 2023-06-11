@@ -41,7 +41,6 @@
 ![Google Keep](https://img.shields.io/badge/Google%20Keep-ffbb00?style=for-the-badge&logo=Google%20Keep&logoColor=black)
 ![Google Jamboard](https://img.shields.io/badge/Google%20Jamboard-f37c20?style=for-the-badge&logo=Jamboard&logoColor=white)
 ![Stickies](https://img.shields.io/badge/Stickies-fcf2a1?style=for-the-badge)
-![Tumblr](https://img.shields.io/badge/tumblr-36465d?style=for-the-badge&logo=tumblr&logoColor=white)
 ![Ink](https://img.shields.io/badge/ink-000000?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478cbf?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
