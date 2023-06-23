@@ -38,7 +38,7 @@
 ![Pastebin](https://img.shields.io/badge/Pastebin-02456c?style=for-the-badge&logo=Pastebin&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox%20Browser-ff7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/libreoffice-18a303?style=for-the-badge&logo=libreoffice&logoColor=white)
-![Google Keep](https://img.shields.io/badge/Google%20Keep-ffbb00?style=for-the-badge&logo=Google%20Keep&logoColor=black)
+![Notes](https://img.shields.io/badge/Notes-ffd52e?style=for-the-badge)
 ![Google Jamboard](https://img.shields.io/badge/Google%20Jamboard-f37c20?style=for-the-badge&logo=Jamboard&logoColor=white)
 ![Stickies](https://img.shields.io/badge/Stickies-fcf2a1?style=for-the-badge)
 ![Ink](https://img.shields.io/badge/ink-000000?style=for-the-badge)
