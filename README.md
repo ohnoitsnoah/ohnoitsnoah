@@ -48,4 +48,3 @@
 ![GNU/Linux](https://img.shields.io/badge/GNU/LINUX-fcc624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-a22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows%20ME-008080?style=for-the-badge&logo=Windows%2095&logoColor=white)
