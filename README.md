@@ -11,7 +11,6 @@
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
 ![Noahmacs](https://img.shields.io/badge/Nemacs-ffd95c?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
 ![NeoVim](https://img.shields.io/badge/NeoVim-E34F8?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Nano](https://img.shields.io/badge/GNU%20nano-8518F6?style=for-the-badge)
 ![TextEdit](https://img.shields.io/badge/TextEdit-F2F4F9?style=for-the-badge)
 ![uEmacs/Pk](https://img.shields.io/badge/uEmacs/PK-FAFAED?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
