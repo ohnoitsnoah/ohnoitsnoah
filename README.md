@@ -1,7 +1,7 @@
 # Oh, no! It's Noah!
 - 👋 Hi, I’m @ohnoitsnoah
 - 👀 I’m a multimedia artist
-- 🌱 I’m currently learning C and C#
+- 🌱 I’m currently learning C and Javascript
 - 💞️ I’m looking to collaborate on any sort of creative project
 - 📝️ I use Emacs as my main text editor
 - 📫 How to reach me:
