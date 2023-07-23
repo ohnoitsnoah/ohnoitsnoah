@@ -9,7 +9,6 @@
    + noah@ohnoitsnoah.com
 ## My Toolbox:
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
-![Noahmacs](https://img.shields.io/badge/Nemacs-ffd95c?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
 ![NeoVim](https://img.shields.io/badge/NeoVim-E34F8?style=for-the-badge&logo=neovim&logoColor=white)
 ![Nano](https://img.shields.io/badge/GNU%20nano-8518F6?style=for-the-badge)
 ![TextEdit](https://img.shields.io/badge/TextEdit-F2F4F9?style=for-the-badge)
@@ -31,6 +30,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![BASIC](https://img.shields.io/badge/BASIC-black?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Cloud-da1f26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2b579a?style=for-the-badge&logo=Microsoft%20Word&logoColor=white)
