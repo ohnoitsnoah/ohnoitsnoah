@@ -3,7 +3,6 @@
 - 👀 I’m a multimedia artist
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on any sort of creative project
-- 📝️ I use Emacs as my main text editor
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
    + noah@ohnoitsnoah.com
