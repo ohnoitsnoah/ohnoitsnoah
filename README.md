@@ -1,7 +1,7 @@
 # Oh, no! It's Noah!
 - 👋 Hi, I’m @ohnoitsnoah
 - 👀 I’m a multimedia artist
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C, Python, and Lisp
 - 💞️ I’m looking to collaborate on any sort of creative project
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
@@ -9,11 +9,9 @@
 ## My Toolbox:
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-E34F8?style=for-the-badge&logo=neovim&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
 ![TextEdit](https://img.shields.io/badge/TextEdit-F2F4F9?style=for-the-badge)
 ![uEmacs/Pk](https://img.shields.io/badge/uEmacs/PK-FAFAED?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
 ![JED](https://img.shields.io/badge/JED-40649F?style=for-the-badge)
-![Jove](https://img.shields.io/badge/Jove-ffa8fc?style=for-the-badge)
 ![Notepad](https://img.shields.io/badge/Notepad-6baaab?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Org-Mode](https://img.shields.io/badge/Org--Mode-77aa99?style=for-the-badge&logo=org&logoColor=white)
