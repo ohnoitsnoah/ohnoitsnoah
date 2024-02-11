@@ -9,7 +9,7 @@
 ## My Toolbox:
 ![Emacs](https://img.shields.io/badge/Emacs-7f5ab6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-E34F8?style=for-the-badge&logo=neovim&logoColor=white)
-![TextEdit](https://img.shields.io/badge/TextEdit-F2F4F9?style=for-the-badge)
+![Nano](https://img.shields.io/badge/Nano-F2F4F9?style=for-the-badge)
 ![uEmacs/Pk](https://img.shields.io/badge/uEmacs/PK-FAFAED?style=for-the-badge&logo=GNU%20Emacs&logoColor=black)
 ![JED](https://img.shields.io/badge/JED-40649F?style=for-the-badge)
 ![Notepad](https://img.shields.io/badge/Notepad-6baaab?style=for-the-badge)
