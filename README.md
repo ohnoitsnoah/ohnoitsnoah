@@ -19,7 +19,7 @@
 ![GDscript](https://img.shields.io/badge/GDscript-478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=Racket&logoColor=white)
 ![HTMl5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
