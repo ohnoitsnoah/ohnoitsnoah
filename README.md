@@ -23,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4eaa25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![BASIC](https://img.shields.io/badge/BASIC-black?style=for-the-badge)
