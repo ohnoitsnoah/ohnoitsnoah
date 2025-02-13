@@ -15,6 +15,8 @@
 ![Haskell](https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/micropython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![x86 asm](https://img.shields.io/badge/x86%20ASM-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 ![GDscript](https://img.shields.io/badge/GDscript-478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=Racket&logoColor=white)
