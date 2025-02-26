@@ -1,7 +1,7 @@
 # Oh, no! It's Noah!
 - 👋 Hi, I’m @ohnoitsnoah
 - 👀 I’m a multimedia artist
-- 🌱 I’m currently learning physics and Haskell
+- 🌱 I’m currently learning physics and Clojure
 - 💞️ I’m looking to collaborate on any sort of creative project
 - 📫 How to reach me:
    + https://ohnoitsnoah.com
